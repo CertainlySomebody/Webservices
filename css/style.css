@@ -1,0 +1,31 @@
+
+#insertForm {
+    display:flex;
+    flex-direction: column;
+}
+
+body {
+    background-image:url('../img/bg-new.jpg') !important;
+    color:white;
+    background:fixed;
+}
+
+h1 {
+
+}
+
+.item_single {
+    border:1px solid white;
+    padding:1rem;
+    display:flex;
+    flex-wrap:wrap;
+    background:linear-gradient(70deg, black 70%, transparent);
+}
+
+.item_single h1 {
+    width:100%;
+}
+
+.item_single p {
+    padding:0.5rem;
+}

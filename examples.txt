@@ -1,0 +1,22 @@
+Insert Data
+
+{
+    "shipName": "Drake Navy Issue",
+    "shipDescription": "After the resounding success tied to the launch of the Drake-class Battlecruiser, the Caldari Navy signed up a massive order to acquire a specific version for its own arsenals. The outcome, the Drake Navy Issue, while sharing a similar look with its step-father, serves a completely different purpose on the battlefield. Being more mobile, able to project missiles more effectively at range, against smaller targets and on a wider selection of damage types, this ship is ideal to support small scale conflicts and raids.",
+    "shipClass": "Battlecruiser",
+    "shipRace": "Caldari",
+    "highSlots": 8,
+    "medSlots": 6,
+    "lowSlots": 4,
+    "rigSlots": 3,
+    "volume": 252000,
+    "price": 20000000,
+    "shipTier": 1,
+    "id": 7
+}
+
+Delete Data
+
+{
+    "id": 9
+}
